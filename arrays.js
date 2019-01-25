@@ -31,6 +31,6 @@ function accessElementInArray(array, index) {
   return array[index]
 }
 
-destructivelyAddElementToBeginningOfArray(array) {
-  
+destructivelyRemoveElementToBeginningOfArray(array) {
+
 }
